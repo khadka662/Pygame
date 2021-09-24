@@ -3,7 +3,7 @@ from tkinter import *
 import sqlite3
 def reg():
     root = Tk()
-    root.title("Flappy Bird")
+    root.title("FLAPPY BIRD")
     root.iconbitmap('bird.ico')
    
 
