@@ -3,7 +3,9 @@ from tkinter import *
 import sqlite3
 def reg():
     root = Tk()
-    root.title("Registration Forum")
+    root.title("Flappy Bird")
+    root.iconbitmap('bird.ico')
+   
 
     root.geometry("800x700")
     root.resizable(width=False, height=False)
