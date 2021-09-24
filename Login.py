@@ -34,15 +34,15 @@ def login ():
 root = Tk()
 
 #giving the title for the project
-root.title("Loginpage")
+root.title("FLAPPY BIRD")
 
 #set the geometry for the root window
 root.geometry('350x320')
 
 #adding the background
-bg = ImageTk.PhotoImage(Image.open("Image/bgg.jpg"))
+bg = ImageTk.PhotoImage(Image.open("flappy.jpg"))
 
-
+root.iconbitmap('bird.ico')
 #create a label
 my_label = Label(root,image=bg)
 my_label.place(x=0,y=0,relwidth=1,relheight=1)
@@ -80,3 +80,4 @@ submit_button.grid(row=5 ,column = 2,pady=10 )
 
 
 root.mainloop()
+
