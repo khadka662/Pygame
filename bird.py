@@ -60,6 +60,12 @@ def play():
     pygame.mixer.pre_init(frequency=44100,channels=1,buffer=516)
     #intilizing the game
     pygame.init()
+    
+    # title and icon
+    pygame.display.set_caption("FLAPPY BIRD")
+    icon = pygame.image.load('faby.png')
+    pygame.display.set_icon(icon)
+
 
     #settig the screen
     screen = pygame.display.set_mode((276,513))
