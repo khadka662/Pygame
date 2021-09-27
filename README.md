@@ -27,7 +27,9 @@ The major objectives  of the project are are listed below:
 
 Team Ninja
 sagar khadka[11782933]
+
 Prashant Deshar[11781855]
+
 Ningwa Limbhu[11782863]
 
 Batch: 30 section"B"
