@@ -40,6 +40,12 @@ The features of the projects are:
 •	Player get each point after crossing each pair of pipes.
 
 
+## Scope
+
+Video game has huge scopes in today’s market. Anybody can play this game. Flappy bird is a single player bird game which is easier to play and it is enjoyable. Many kids’ even adults can play this game. It is easier to play and fun game. We created this game so that any type or group of people and students can enjoy this game. This can help people time pass and video game also good for mental health.
+
+
+
 
 ## Team Ninja
 
